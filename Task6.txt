@@ -1,0 +1,72 @@
+Passwords with Varying Complexity
+
+
+| Password                    | Complexity Level | Description                                         |
+|-----------------------------|------------------|-----------------------------------------------------|
+|  password123                | Low              | Common, no symbols, predictable                     |
+|  PaSs1234                   | Medium           | Mix of cases and digits                             |
+|  P@ssw0rd!                  | Medium-High      | Uses symbol and number substitutions                |
+|  S7#fT8!rB@k9Z              | High             | Random characters, upper/lowercase, digits, symbols |
+|  correcthorsebatterystaple  | High             | Long passphrase, dictionary words                   |
+|  G9!xRz4#LpV2               | Very High        | Random, 12+ characters, complex mix                 |
+
+
+
+
+
+
+*_Best Practices:
+
+Use a mix of uppercase, lowercase, numbers, and symbols.
+
+Increase length — more than 12 characters significantly improves strength.
+
+Avoid dictionary words unless in a long passphrase form.
+
+Do not reuse passwords across multiple accounts.
+
+Use a password manager to generate and store complex passwords.
+
+Substitute unpredictably — don’t rely on common substitutions like @ for a.
+
+
+*_Tips:
+
+Randomly generated passwords are strongest.
+
+Long passphrases are secure if not based on popular quotes or patterns.
+
+Adding complexity matters more when length is short.
+
+Avoid predictable patterns (e.g., 123, qwerty, password).
+
+
+
+
+Comman password attacks:
+
+| Attack Type             | Description                                                             |
+|-------------------------|-------------------------------------------------------------------------|
+|     Brute Force         | Tries all possible combinations until it finds the correct one.         |
+|     Dictionary          | Uses a list of common words and phrases to guess passwords.             |
+|   Credential Stuffing   | Tries previously breached username-password pairs on other sites.       |
+|   Phishing              | Tricks users into giving up passwords via fake login pages or messages. |
+
+
+
+
+
+
+Summary:
+How Password Complexity Affects Security
+
+
+Password complexity greatly increases security by:
+
+Slowing down brute-force attacks — more combinations to test.
+
+Reducing effectiveness of dictionary attacks — non-words or altered words confuse basic lists.
+
+Improving entropy — each added type (symbol, digit, length) increases randomness.
+
+Preventing reuse vulnerability — strong, unique passwords stop credential stuffing.
