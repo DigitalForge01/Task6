@@ -15,12 +15,12 @@ This project explores password strength, evaluates various password complexities
 
 🔑 Sample Passwords Tested
 Password	Strength	Notes
-password123	❌ Very Weak	Common and predictable
-PaSs1234	⚠️ Moderate	Needs more length and symbols
-P@ssw0rd!	✅ Good	Still partially guessable
-S7#fT8!rB@k9Z	💪 Strong	Excellent randomness
-correcthorsebatterystaple	💪 Strong	Long and memorable
-G9!xRz4#LpV2	💪 Strong	Complex and secure
+password123       	         ❌ Very Weak	Common and predictable
+PaSs1234	                   ⚠️ Moderate	Needs more length and symbols
+P@ssw0rd!	                   ✅ Good	Still partially guessable
+S7#fT8!rB@k9Z	               💪 Strong	Excellent randomness
+correcthorsebatterystaple	   💪 Strong	Long and memorable
+G9!xRz4#LpV2	               💪 Strong	Complex and secure
 
 🧠 Key Learnings
 Use 12+ characters
